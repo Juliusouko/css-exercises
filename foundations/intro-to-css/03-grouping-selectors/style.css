@@ -1,0 +1,19 @@
+.one,
+.two {
+  font-size: 28px;
+  font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
+.one {
+  background: black;
+  color: white;
+}
+
+.two {
+  background: yellow;
+}
+
+/*an example of using a chaning selector in css*/
+.subsection.preview {
+  color: red;
+}
